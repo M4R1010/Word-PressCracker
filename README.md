@@ -11,4 +11,5 @@ Usage of Word-Presscracker for attacking targets without prior mutual consent is
 ![git](https://user-images.githubusercontent.com/96127116/217363964-2ec636e0-44d6-44ca-829b-86641f208369.png)
 
 
- `perl wpBrute.pl --help`
+ `cd Word-PressCracker`
+ `Mass-BruteForce.pl`
