@@ -12,4 +12,4 @@ Usage of Word-Presscracker for attacking targets without prior mutual consent is
 
 
  `cd Word-PressCracker`
- `Mass-BruteForce.pl`
+ `perl Mass-BruteForce.pl --help`
