@@ -18,8 +18,8 @@ Usage of Word-Presscracker for attacking targets without prior mutual consent is
  
  **[Mega Linck]** : https://mega.nz/folder/aDpmxCiD#f_pSJ0vV698-Ev1mbyYNAQ   [~All RockYou.txt]
  
- Credits to: ohmybahgosh ( RockYou-Files )
-Thanks: ohmybahgosh!
+ Credits to: ohmybahgosh ( RockYou-Files ) 
+
 
  
  
